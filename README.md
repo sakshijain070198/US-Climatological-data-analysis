@@ -31,10 +31,14 @@ The "Queries Analysis" file contains:
 - Screenshots: Executed queries with output.
 
 
-## Contact Us
+## Contact
 
 For inquiries or feedback, contact:
 
-- Anshul Yadav: anshul.yadav@sjsu.edu
+- Sakshi Jain: 
+- sakshi.jain02@sjsu.edu
+- sakshijain070198@gmail.com
 
 Explore the project and leverage insights from the NOAA weather data!
+
+Thanks!
